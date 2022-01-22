@@ -1,2 +1,2 @@
 pandas
-opencv
+opencv-python
